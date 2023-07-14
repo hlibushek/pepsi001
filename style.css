@@ -1,1 +1,8 @@
-
+body {
+font-family: sans-serif ;
+  background-color: blue
+}
+ul {
+  background-color: black;
+  color: white
+}
