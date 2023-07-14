@@ -1,8 +1,14 @@
 body {
 font-family: sans-serif ;
-  background-color: blue
+  background-color: blue;
+}
+h1 {
+text-align: center;
+  background-color: red;
+  color: white;
 }
 ul {
   background-color: black;
-  color: white
+  color: white;
+  text-align: center;
 }
